@@ -1,9 +1,9 @@
 # EXPERIMENT 01 ALP FOR 8086
-Name : JAWAHAR RAJ N
+Name : JAWAHAR RAJ N.
 
-Ref no : 212223240057
+Ref no : 212223240057.
 
-Date of experiment :
+Date of experiment :12/08/2024.
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
